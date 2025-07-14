@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+gradio
+requests
+openai
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu 
+pypdf
+docx2txt
