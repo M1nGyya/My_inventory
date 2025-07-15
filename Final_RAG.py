@@ -53,7 +53,7 @@ DATA_DIR = "./legal_data"
 EMBEDDING_MODEL_NAME = "F:/My_model_cache/hub/models--BAAI--bge-small-zh-v1.5/snapshots/7999e1d3359715c523056ef9478215996d62a620"
 RERANKER_MODEL_NAME = 'F:/My_model_cache\hub/models--BAAI--bge-reranker-base/snapshots/2cfc18c9415c912f9d8155881c133215df768a70'
 VECTOR_DB_PATH = "./vector_store/faiss_index_legal"
-DEEPSEEK_API_KEY = "sk-eac1239bf1604cf582d29a769d9b80db"
+DEEPSEEK_API_KEY = "use your api key"
 
 
 try:
