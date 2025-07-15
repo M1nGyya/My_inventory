@@ -1,3 +1,4 @@
+# 使用之前请将第57行 DEEPSEEK_API_KEY 替换为自己的api
 import os
 import ast
 from openai import OpenAI
